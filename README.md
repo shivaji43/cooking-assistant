@@ -15,7 +15,7 @@ Check out the live demo: [ShapesCook](https://cookshapes.vercel.app/)
 
 ### Clone the repo
 ```bash
-git clone https://github.com/yourusername/cooking-assistant.git
+git clone https://github.com/shivaji43/cooking-assistant.git
 cd cooking-assistant
 ```
 
