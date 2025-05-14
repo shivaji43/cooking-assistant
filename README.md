@@ -9,7 +9,7 @@ A Helper Cook bot powered by the ShapesInc API.
 
 ## Demo
 
-Check out the live demo: [ShapesCook](https://shapeschess.vercel.app/)
+Check out the live demo: [ShapesCook](https://cookshapes.vercel.app/)
 
 ## Setup
 
